@@ -87,8 +87,6 @@ def logout():
 if __name__ == "__main__":
     app.run(debug=True)# User Login and Registration System
 
-This project is developed using Flask and SQLite.
-
 ## Features
 - User Registration
 - User Login
