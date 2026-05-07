@@ -87,7 +87,3 @@ def logout():
 if __name__ == "__main__":
     app.run(debug=True)# User Login and Registration System
 
-## Features
-- User Registration
-- User Login
-- Logout System
